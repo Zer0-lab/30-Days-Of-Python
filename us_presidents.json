@@ -1,0 +1,425 @@
+[
+    {
+        "number": "1",
+        "portrait": "",
+        "name": "George Washington (1732–1799)",
+        "term": "April 30, 1789 – March 4, 1797",
+        "party": "",
+        "election": "Unaffiliated",
+        "vice_president": "1788–89"
+    },
+    {
+        "number": "2",
+        "portrait": "",
+        "name": "John Adams (1735–1826)",
+        "term": "March 4, 1797 – March 4, 1801",
+        "party": "",
+        "election": "Federalist",
+        "vice_president": "1796"
+    },
+    {
+        "number": "3",
+        "portrait": "",
+        "name": "Thomas Jefferson (1743–1826)",
+        "term": "March 4, 1801 – March 4, 1809",
+        "party": "",
+        "election": "Democratic- Republican",
+        "vice_president": "1800"
+    },
+    {
+        "number": "4",
+        "portrait": "",
+        "name": "James Madison (1751–1836)",
+        "term": "March 4, 1809 – March 4, 1817",
+        "party": "",
+        "election": "Democratic- Republican",
+        "vice_president": "1808"
+    },
+    {
+        "number": "5",
+        "portrait": "",
+        "name": "James Monroe (1758–1831)",
+        "term": "March 4, 1817 – March 4, 1825",
+        "party": "",
+        "election": "Democratic- Republican",
+        "vice_president": "1816"
+    },
+    {
+        "number": "6",
+        "portrait": "",
+        "name": "John Quincy Adams (1767–1848)",
+        "term": "March 4, 1825 – March 4, 1829",
+        "party": "",
+        "election": "Democratic- Republican",
+        "vice_president": "1824"
+    },
+    {
+        "number": "7",
+        "portrait": "",
+        "name": "Andrew Jackson (1767–1845)",
+        "term": "March 4, 1829 – March 4, 1837",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1828"
+    },
+    {
+        "number": "8",
+        "portrait": "",
+        "name": "Martin Van Buren (1782–1862)",
+        "term": "March 4, 1837 – March 4, 1841",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1836"
+    },
+    {
+        "number": "9",
+        "portrait": "",
+        "name": "William Henry Harrison (1773–1841)",
+        "term": "March 4, 1841 – April 4, 1841",
+        "party": "",
+        "election": "Whig",
+        "vice_president": "1840"
+    },
+    {
+        "number": "10",
+        "portrait": "",
+        "name": "John Tyler (1790–1862)",
+        "term": "April 4, 1841 – March 4, 1845",
+        "party": "",
+        "election": "Whig",
+        "vice_president": "–"
+    },
+    {
+        "number": "11",
+        "portrait": "",
+        "name": "James K. Polk (1795–1849)",
+        "term": "March 4, 1845 – March 4, 1849",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1844"
+    },
+    {
+        "number": "12",
+        "portrait": "",
+        "name": "Zachary Taylor (1784–1850)",
+        "term": "March 4, 1849 – July 9, 1850",
+        "party": "",
+        "election": "Whig",
+        "vice_president": "1848"
+    },
+    {
+        "number": "13",
+        "portrait": "",
+        "name": "Millard Fillmore (1800–1874)",
+        "term": "July 9, 1850 – March 4, 1853",
+        "party": "",
+        "election": "Whig",
+        "vice_president": "–"
+    },
+    {
+        "number": "14",
+        "portrait": "",
+        "name": "Franklin Pierce (1804–1869)",
+        "term": "March 4, 1853 – March 4, 1857",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1852"
+    },
+    {
+        "number": "15",
+        "portrait": "",
+        "name": "James Buchanan (1791–1868)",
+        "term": "March 4, 1857 – March 4, 1861",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1856"
+    },
+    {
+        "number": "16",
+        "portrait": "",
+        "name": "Abraham Lincoln (1809–1865)",
+        "term": "March 4, 1861 – April 15, 1865",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1860"
+    },
+    {
+        "number": "17",
+        "portrait": "",
+        "name": "Andrew Johnson (1808–1875)",
+        "term": "April 15, 1865 – March 4, 1869",
+        "party": "",
+        "election": "National Union",
+        "vice_president": "–"
+    },
+    {
+        "number": "18",
+        "portrait": "",
+        "name": "Ulysses S. Grant (1822–1885)",
+        "term": "March 4, 1869 – March 4, 1877",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1868"
+    },
+    {
+        "number": "19",
+        "portrait": "",
+        "name": "Rutherford B. Hayes (1822–1893)",
+        "term": "March 4, 1877 – March 4, 1881",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1876"
+    },
+    {
+        "number": "20",
+        "portrait": "",
+        "name": "James A. Garfield (1831–1881)",
+        "term": "March 4, 1881 – September 19, 1881",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1880"
+    },
+    {
+        "number": "21",
+        "portrait": "",
+        "name": "Chester A. Arthur (1829–1886)",
+        "term": "September 19, 1881 – March 4, 1885",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "–"
+    },
+    {
+        "number": "22",
+        "portrait": "",
+        "name": "Grover Cleveland (1837–1908) 1st term",
+        "term": "March 4, 1885 – March 4, 1889",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1884"
+    },
+    {
+        "number": "23",
+        "portrait": "",
+        "name": "Benjamin Harrison (1833–1901)",
+        "term": "March 4, 1889 – March 4, 1893",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1888"
+    },
+    {
+        "number": "24",
+        "portrait": "",
+        "name": "Grover Cleveland (1837–1908) 2nd term",
+        "term": "March 4, 1893 – March 4, 1897",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1892"
+    },
+    {
+        "number": "25",
+        "portrait": "",
+        "name": "William McKinley (1843–1901)",
+        "term": "March 4, 1897 – September 14, 1901",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1896"
+    },
+    {
+        "number": "26",
+        "portrait": "",
+        "name": "Theodore Roosevelt (1858–1919)",
+        "term": "September 14, 1901 – March 4, 1909",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "–"
+    },
+    {
+        "number": "27",
+        "portrait": "",
+        "name": "William Howard Taft (1857–1930)",
+        "term": "March 4, 1909 – March 4, 1913",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1908"
+    },
+    {
+        "number": "28",
+        "portrait": "",
+        "name": "Woodrow Wilson (1856–1924)",
+        "term": "March 4, 1913 – March 4, 1921",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1912"
+    },
+    {
+        "number": "29",
+        "portrait": "",
+        "name": "Warren G. Harding (1865–1923)",
+        "term": "March 4, 1921 – August 2, 1923",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1920"
+    },
+    {
+        "number": "30",
+        "portrait": "",
+        "name": "Calvin Coolidge (1872–1933)",
+        "term": "August 2, 1923 – March 4, 1929",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "–"
+    },
+    {
+        "number": "31",
+        "portrait": "",
+        "name": "Herbert Hoover (1874–1964)",
+        "term": "March 4, 1929 – March 4, 1933",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1928"
+    },
+    {
+        "number": "32",
+        "portrait": "",
+        "name": "Franklin D. Roosevelt (1882–1945)",
+        "term": "March 4, 1933 – April 12, 1945",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1932"
+    },
+    {
+        "number": "33",
+        "portrait": "",
+        "name": "Harry S. Truman (1884–1972)",
+        "term": "April 12, 1945 – January 20, 1953",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "–"
+    },
+    {
+        "number": "34",
+        "portrait": "",
+        "name": "Dwight D. Eisenhower (1890–1969)",
+        "term": "January 20, 1953 – January 20, 1961",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1952"
+    },
+    {
+        "number": "35",
+        "portrait": "",
+        "name": "John F. Kennedy (1917–1963)",
+        "term": "January 20, 1961 – November 22, 1963",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1960"
+    },
+    {
+        "number": "36",
+        "portrait": "",
+        "name": "Lyndon B. Johnson (1908–1973)",
+        "term": "November 22, 1963 – January 20, 1969",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "–"
+    },
+    {
+        "number": "37",
+        "portrait": "",
+        "name": "Richard Nixon (1913–1994)",
+        "term": "January 20, 1969 – August 9, 1974",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1968"
+    },
+    {
+        "number": "38",
+        "portrait": "",
+        "name": "Gerald Ford (1913–2006)",
+        "term": "August 9, 1974 – January 20, 1977",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "–"
+    },
+    {
+        "number": "39",
+        "portrait": "",
+        "name": "Jimmy Carter (1924–2024)",
+        "term": "January 20, 1977 – January 20, 1981",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1976"
+    },
+    {
+        "number": "40",
+        "portrait": "",
+        "name": "Ronald Reagan (1911–2004)",
+        "term": "January 20, 1981 – January 20, 1989",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1980"
+    },
+    {
+        "number": "41",
+        "portrait": "",
+        "name": "George H. W. Bush (1924–2018)",
+        "term": "January 20, 1989 – January 20, 1993",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "1988"
+    },
+    {
+        "number": "42",
+        "portrait": "",
+        "name": "Bill Clinton ( b. 1946)",
+        "term": "January 20, 1993 – January 20, 2001",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "1992"
+    },
+    {
+        "number": "43",
+        "portrait": "",
+        "name": "George W. Bush ( b. 1946)",
+        "term": "January 20, 2001 – January 20, 2009",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "2000"
+    },
+    {
+        "number": "44",
+        "portrait": "",
+        "name": "Barack Obama ( b. 1961)",
+        "term": "January 20, 2009 – January 20, 2017",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "2008"
+    },
+    {
+        "number": "45",
+        "portrait": "",
+        "name": "Donald Trump ( b. 1946) 1st term",
+        "term": "January 20, 2017 – January 20, 2021",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "2016"
+    },
+    {
+        "number": "46",
+        "portrait": "",
+        "name": "Joe Biden ( b. 1942)",
+        "term": "January 20, 2021 – January 20, 2025",
+        "party": "",
+        "election": "Democratic",
+        "vice_president": "2020"
+    },
+    {
+        "number": "47",
+        "portrait": "",
+        "name": "Donald Trump ( b. 1946) 2nd term",
+        "term": "January 20, 2025 – Incumbent",
+        "party": "",
+        "election": "Republican",
+        "vice_president": "2024"
+    }
+]

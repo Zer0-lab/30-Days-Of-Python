@@ -1,0 +1,95 @@
+{
+    "url": "https://archive.ics.uci.edu/datasets",
+    "datasets": [
+        {
+            "name": "Iris",
+            "link": "https://archive.ics.uci.edu/dataset/53/iris",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Iris"
+        },
+        {
+            "name": "Heart Disease",
+            "link": "https://archive.ics.uci.edu/dataset/45/heart+disease",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Heart Disease"
+        },
+        {
+            "name": "Wine Quality",
+            "link": "https://archive.ics.uci.edu/dataset/186/wine+quality",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Wine Quality"
+        },
+        {
+            "name": "Breast Cancer Wisconsin (Diagnostic)",
+            "link": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Breast Cancer Wisconsin (Diagnostic)"
+        },
+        {
+            "name": "Bank Marketing",
+            "link": "https://archive.ics.uci.edu/dataset/222/bank+marketing",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Bank Marketing"
+        },
+        {
+            "name": "Adult",
+            "link": "https://archive.ics.uci.edu/dataset/2/adult",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Adult"
+        },
+        {
+            "name": "Student Performance",
+            "link": "https://archive.ics.uci.edu/dataset/320/student+performance",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Student Performance"
+        },
+        {
+            "name": "Online Retail",
+            "link": "https://archive.ics.uci.edu/dataset/352/online+retail",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Online Retail"
+        },
+        {
+            "name": "Wine",
+            "link": "https://archive.ics.uci.edu/dataset/109/wine",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Wine"
+        },
+        {
+            "name": "Car Evaluation",
+            "link": "https://archive.ics.uci.edu/dataset/19/car+evaluation",
+            "task": null,
+            "data_type": null,
+            "instances": null,
+            "features": null,
+            "raw_text": "Car Evaluation"
+        }
+    ]
+}
